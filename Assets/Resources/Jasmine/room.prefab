@@ -9,7 +9,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1605622377678861933}
-  - component: {fileID: -4865022025475227725}
+  - component: {fileID: 5986866578906123199}
   m_Layer: 0
   m_Name: room
   m_TagString: Untagged
@@ -32,7 +32,7 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &-4865022025475227725
+--- !u!114 &5986866578906123199
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -41,9 +41,9 @@ MonoBehaviour:
   m_GameObject: {fileID: 7104802646728956112}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e9fda1be0f47f4d2eb0cd4977c7295a1, type: 3}
+  m_Script: {fileID: 11500000, guid: dacc33e2ea73e9c4db5cd6a7224ecacd, type: 3}
   m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::Room
+  m_EditorClassIdentifier: Assembly-CSharp::jz5144TrapMoveableRoom
   roomAuthor: Jasmine
   designedRoomFile: {fileID: 4900000, guid: a49b6728c05ca5945842154b9459d04b, type: 3}
   localTilePrefabs:
@@ -51,3 +51,10 @@ MonoBehaviour:
   - {fileID: 6635170380876586860, guid: 4236298a8bec6fa42adac24c6255b7e8, type: 3}
   roomGridX: 0
   roomGridY: 0
+  maxTraps: 3
+  chanceToHaveMoveableWalls: 0.55
+  minMoveableWalls: 2
+  maxMoveableWalls: 3
+  edgeWallChance: 0.349
+  minInteriorWalls: 0
+  maxInteriorWalls: 7
