@@ -19,11 +19,15 @@ public class MoveWall_tile : Wall
     }
 
     private void EnsureBody()
-    {   
-        _body = gameObject.AddComponent<Rigidbody2D>();
+    {
+        if (_body == null) _body = GetComponent<Rigidbody2D>();
+        if (_body == null) _body = gameObject.AddComponent<Rigidbody2D>();
+
         _body.gravityScale = 0f;
         _body.bodyType = RigidbodyType2D.Kinematic;
         _body.constraints = RigidbodyConstraints2D.FreezeRotation;
+        _body.useFullKinematicContacts = true;
+        _body.collisionDetectionMode = CollisionDetectionMode2D.Continuous;
     }
 
     private void InitDirectionIfNeeded()
@@ -39,6 +43,8 @@ public class MoveWall_tile : Wall
 
     private void FixedUpdate()
     {
+        if (_body == null) return;
+
         _lastPos = _body.position;
 
         Vector2 next = _body.position + _dir * (moveSpeed * Time.fixedDeltaTime);
