@@ -48,5 +48,6 @@ MonoBehaviour:
   designedRoomFile: {fileID: 4900000, guid: a49b6728c05ca5945842154b9459d04b, type: 3}
   localTilePrefabs:
   - {fileID: 1249101369981090, guid: 9edecdc049de8094faf7fe00039c980a, type: 3}
+  - {fileID: 6635170380876586860, guid: 4236298a8bec6fa42adac24c6255b7e8, type: 3}
   roomGridX: 0
   roomGridY: 0

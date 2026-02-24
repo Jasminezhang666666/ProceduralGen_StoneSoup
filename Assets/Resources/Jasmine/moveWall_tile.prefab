@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!1 &1249101369981090
+--- !u!1 &6635170380876586860
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -8,40 +8,40 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-  - component: {fileID: 4113051429650106}
-  - component: {fileID: 212269930273341580}
-  - component: {fileID: 61520840255413838}
-  - component: {fileID: -7562585847537865350}
-  m_Layer: 10
-  m_Name: trap_tile
+  - component: {fileID: 16597223415022659}
+  - component: {fileID: 5757104580164653683}
+  - component: {fileID: 3182013371144608407}
+  - component: {fileID: 3773608571735113586}
+  m_Layer: 0
+  m_Name: moveWall_tile
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 4294967295
   m_IsActive: 1
---- !u!4 &4113051429650106
+--- !u!4 &16597223415022659
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1249101369981090}
+  m_GameObject: {fileID: 6635170380876586860}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.01, y: 1.98, z: 0}
-  m_LocalScale: {x: 1.1763018, y: 1.1924511, z: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!212 &212269930273341580
+--- !u!212 &5757104580164653683
 SpriteRenderer:
   serializedVersion: 2
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1249101369981090}
+  m_GameObject: {fileID: 6635170380876586860}
   m_Enabled: 1
   m_CastShadows: 0
   m_ReceiveShadows: 0
@@ -81,10 +81,10 @@ SpriteRenderer:
   m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 10
+  m_SortingOrder: 0
   m_MaskInteraction: 0
-  m_Sprite: {fileID: 21300000, guid: af0fdcfd9b1114882be6af237f3c331d, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Sprite: {fileID: 21300000, guid: 22de2d8ee5c46468fbd04d16a21f8485, type: 3}
+  m_Color: {r: 0.3648451, g: 1, b: 0.33773577, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -93,13 +93,13 @@ SpriteRenderer:
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_SpriteSortPoint: 0
---- !u!61 &61520840255413838
+--- !u!61 &3182013371144608407
 BoxCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1249101369981090}
+  m_GameObject: {fileID: 6635170380876586860}
   m_Enabled: 1
   serializedVersion: 3
   m_Density: 1
@@ -123,41 +123,42 @@ BoxCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 1
+  m_IsTrigger: 0
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0.0066612363, y: 0.015467346}
+  m_Offset: {x: 0, y: 0}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 0.8, y: 1.1}
+    oldSize: {x: 2, y: 2}
     newSize: {x: 1, y: 1}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 0.56375754, y: 0.7158294}
+  m_Size: {x: 2, y: 2}
   m_EdgeRadius: 0
---- !u!114 &-7562585847537865350
+--- !u!114 &3773608571735113586
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1249101369981090}
+  m_GameObject: {fileID: 6635170380876586860}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 4eaa3b6367fa0d146b3ea5e2406941c0, type: 3}
+  m_Script: {fileID: 11500000, guid: 6e8bbc10bb9977f41a5905fe72a1e032, type: 3}
   m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::Trap
-  tags: 0
-  tileName: trap_tile
+  m_EditorClassIdentifier: Assembly-CSharp::MoveWall_tile
+  tags: 1
+  tileName: moveWall_tile
   health: 1
-  deathEffect: {fileID: 0}
+  deathEffect: {fileID: 1581785524438676, guid: b55624526117b4928b6338cb05f43f68,
+    type: 3}
   deathSFX: {fileID: 0}
   heldOffset: {x: 0.2, y: -0.1}
   heldAngle: 0
   tileWereHolding: {fileID: 0}
   aimDirection: {x: 0, y: 0}
-  trapSeconds: 3
+  moveSpeed: 2
