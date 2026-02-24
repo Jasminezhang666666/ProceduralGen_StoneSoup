@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 212269930273341580}
   - component: {fileID: 61520840255413838}
   - component: {fileID: -7562585847537865350}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: trap_tile
   m_TagString: Untagged
   m_Icon: {fileID: 0}

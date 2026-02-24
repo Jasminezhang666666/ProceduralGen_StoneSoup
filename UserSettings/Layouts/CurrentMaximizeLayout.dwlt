@@ -98,7 +98,7 @@ MonoBehaviour:
     m_HSlider: 0
     m_VSlider: 0
     m_IgnoreScrollWheelUntilClicked: 0
-    m_EnableMouseInput: 1
+    m_EnableMouseInput: 0
     m_EnableSliderZoomHorizontal: 0
     m_EnableSliderZoomVertical: 0
     m_UniformScale: 1
@@ -201,8 +201,8 @@ MonoBehaviour:
     y: 0
     width: 392.8
     height: 483.2
-  m_MinSize: {x: 201, y: 226}
-  m_MaxSize: {x: 4001, y: 4026}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 6}
   m_Panes:
   - {fileID: 6}
@@ -251,15 +251,23 @@ MonoBehaviour:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs:
-      - m_Data: 29394
+      - m_Data: 28116
       m_LastClickedID:
         m_Data: 0
       m_ExpandedIDs:
+      - m_Data: -123192
+      - m_Data: -120274
+      - m_Data: -120128
+      - m_Data: -119828
+      - m_Data: -119820
       - m_Data: -1330
+      - m_Data: -12
+      - m_Data: 27728
+      - m_Data: 38172
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: 
-        m_OriginalName: 
+        m_Name: wall_tile(Clone)
+        m_OriginalName: wall_tile(Clone)
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
@@ -267,10 +275,10 @@ MonoBehaviour:
           width: 0
           height: 0
         m_UserData:
-          m_Data: 0
+          m_Data: -120134
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
-        m_OriginalEventType: 11
+        m_OriginalEventType: 0
         m_IsRenamingFilename: 0
         m_TrimLeadingAndTrailingWhitespace: 0
         m_ClientGUIView: {fileID: 5}
@@ -890,9 +898,9 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_DebugDrawModesUseInteractiveLightBakingData: 0
   m_Position:
-    m_Target: {x: 0.25638795, y: 0.14068475, z: -0.0070868023}
+    m_Target: {x: 75.71232, y: 17.976515, z: -0.15500806}
     speed: 2
-    m_Value: {x: 0.25638795, y: 0.14068475, z: -0.0070868023}
+    m_Value: {x: 75.71232, y: 17.976515, z: -0.15500806}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 2
@@ -942,9 +950,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 1.5747081
+    m_Target: 6.424118
     speed: 2
-    m_Value: 1.5747081
+    m_Value: 6.424118
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -1002,7 +1010,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 56}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 99
+  controlID: 18412
   draggingID: 0
 --- !u!114 &10
 MonoBehaviour:
@@ -1097,7 +1105,7 @@ MonoBehaviour:
     m_IsLocked: 0
   m_LastLocalAssetsSearchArea: 1
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 227.49924}
+    scrollPos: {x: 0, y: 268.40002}
     m_SelectedIDs:
     - m_Data: 28180
     m_LastClickedID:
@@ -1106,6 +1114,7 @@ MonoBehaviour:
     - m_Data: 0
     - m_Data: 27788
     - m_Data: 27790
+    - m_Data: 27792
     - m_Data: 27794
     - m_Data: 28166
     - m_Data: 1000000000
@@ -1143,8 +1152,9 @@ MonoBehaviour:
     - m_Data: 0
     - m_Data: 27788
     - m_Data: 27790
-    - m_Data: 27792
     - m_Data: 27794
+    - m_Data: 28166
+    - m_Data: 1000000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1172,15 +1182,15 @@ MonoBehaviour:
       m_ResourceFile: 
   m_ListAreaState:
     m_SelectedInstanceIDs:
-    - m_Data: 29394
-    m_LastClickedInstanceID: 29394
+    - m_Data: 28116
+    m_LastClickedInstanceID: 28116
     m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs:
     - m_Data: 33018
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: moveWall_tile
-      m_OriginalName: moveWall_tile
+      m_Name: Trap
+      m_OriginalName: Trap
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
@@ -1188,7 +1198,7 @@ MonoBehaviour:
         width: 0
         height: 0
       m_UserData:
-        m_Data: 29394
+        m_Data: 24580
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
       m_OriginalEventType: 0
@@ -1225,8 +1235,8 @@ MonoBehaviour:
     y: 0
     width: 660
     height: 321.59998
-  m_MinSize: {x: 100, y: 100}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 102, y: 126}
+  m_MaxSize: {x: 4002, y: 4026}
   m_ActualView: {fileID: 13}
   m_Panes:
   - {fileID: 13}
@@ -1343,7 +1353,7 @@ MonoBehaviour:
     m_ControlHash: -371814159
     m_PrefName: Preview_InspectorPreview
   m_LastInspectedObjectInstanceID: -1
-  m_LastVerticalScrollValue: 432
+  m_LastVerticalScrollValue: 519.2
   m_GlobalObjectId: 
   m_InspectorMode: 0
   m_LockTracker:
