@@ -3,19 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\44604\\Documents\\GitHub\\ProceduralGen_StoneSoup\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9D386BA9-61ED-45C3-23B2-1100F1E2B812}|Assembly-CSharp.csproj|c:\\users\\44604\\documents\\github\\proceduralgen_stonesoup\\assets\\resources\\jasmine\\egg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D386BA9-61ED-45C3-23B2-1100F1E2B812}|Assembly-CSharp.csproj|solutionrelative:assets\\resources\\jasmine\\egg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D386BA9-61ED-45C3-23B2-1100F1E2B812}|Assembly-CSharp.csproj|c:\\users\\44604\\documents\\github\\proceduralgen_stonesoup\\assets\\resources\\jasmine\\dragon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D386BA9-61ED-45C3-23B2-1100F1E2B812}|Assembly-CSharp.csproj|solutionrelative:assets\\resources\\jasmine\\dragon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\44604\\documents\\github\\proceduralgen_stonesoup\\assets\\resources\\jasmine\\jz5144dragon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\resources\\jasmine\\jz5144dragon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9D386BA9-61ED-45C3-23B2-1100F1E2B812}|Assembly-CSharp.csproj|C:\\Users\\44604\\Documents\\GitHub\\ProceduralGen_StoneSoup\\assets\\resources\\jasmine\\validateroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9D386BA9-61ED-45C3-23B2-1100F1E2B812}|Assembly-CSharp.csproj|solutionrelative:assets\\resources\\jasmine\\validateroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\44604\\Downloads\\ValidatedRoom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9D386BA9-61ED-45C3-23B2-1100F1E2B812}|Assembly-CSharp.csproj|C:\\Users\\44604\\Documents\\GitHub\\ProceduralGen_StoneSoup\\assets\\resources\\ap\\scripts\\apt283basicenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D386BA9-61ED-45C3-23B2-1100F1E2B812}|Assembly-CSharp.csproj|solutionrelative:assets\\resources\\ap\\scripts\\apt283basicenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D386BA9-61ED-45C3-23B2-1100F1E2B812}|Assembly-CSharp.csproj|C:\\Users\\44604\\Documents\\GitHub\\ProceduralGen_StoneSoup\\assets\\scripts\\gameobjects\\tile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D386BA9-61ED-45C3-23B2-1100F1E2B812}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gameobjects\\tile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D386BA9-61ED-45C3-23B2-1100F1E2B812}|Assembly-CSharp.csproj|C:\\Users\\44604\\Documents\\GitHub\\ProceduralGen_StoneSoup\\assets\\scripts\\gameobjects\\basicaicreature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D386BA9-61ED-45C3-23B2-1100F1E2B812}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gameobjects\\basicaicreature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D386BA9-61ED-45C3-23B2-1100F1E2B812}|Assembly-CSharp.csproj|C:\\Users\\44604\\Documents\\GitHub\\ProceduralGen_StoneSoup\\assets\\resources\\jasmine\\egg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D386BA9-61ED-45C3-23B2-1100F1E2B812}|Assembly-CSharp.csproj|solutionrelative:assets\\resources\\jasmine\\egg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D386BA9-61ED-45C3-23B2-1100F1E2B812}|Assembly-CSharp.csproj|C:\\Users\\44604\\Documents\\GitHub\\ProceduralGen_StoneSoup\\assets\\resources\\jasmine\\movewall_tile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D386BA9-61ED-45C3-23B2-1100F1E2B812}|Assembly-CSharp.csproj|solutionrelative:assets\\resources\\jasmine\\movewall_tile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D386BA9-61ED-45C3-23B2-1100F1E2B812}|Assembly-CSharp.csproj|C:\\Users\\44604\\Documents\\GitHub\\ProceduralGen_StoneSoup\\assets\\resources\\jasmine\\egg_closed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D386BA9-61ED-45C3-23B2-1100F1E2B812}|Assembly-CSharp.csproj|solutionrelative:assets\\resources\\jasmine\\egg_closed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9D386BA9-61ED-45C3-23B2-1100F1E2B812}|Assembly-CSharp.csproj|C:\\Users\\44604\\Documents\\GitHub\\ProceduralGen_StoneSoup\\assets\\scripts\\util\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,10 +55,6 @@
       "RelativeMoniker": "D:0:0:{9D386BA9-61ED-45C3-23B2-1100F1E2B812}|Assembly-CSharp.csproj|solutionrelative:assets\\resources\\jasmine\\roompicker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9D386BA9-61ED-45C3-23B2-1100F1E2B812}|Assembly-CSharp.csproj|C:\\Users\\44604\\Documents\\GitHub\\ProceduralGen_StoneSoup\\assets\\resources\\jasmine\\movewall_tile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D386BA9-61ED-45C3-23B2-1100F1E2B812}|Assembly-CSharp.csproj|solutionrelative:assets\\resources\\jasmine\\movewall_tile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9D386BA9-61ED-45C3-23B2-1100F1E2B812}|Assembly-CSharp.csproj|C:\\Users\\44604\\Documents\\GitHub\\ProceduralGen_StoneSoup\\assets\\resources\\jasmine\\jz5144trapmoveableroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9D386BA9-61ED-45C3-23B2-1100F1E2B812}|Assembly-CSharp.csproj|solutionrelative:assets\\resources\\jasmine\\jz5144trapmoveableroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -56,6 +69,12 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\44604\\Documents\\GitHub\\ProceduralGen_StoneSoup\\Assets\\Resources\\Jasmine\\basicroom_JSM.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Resources\\Jasmine\\basicroom_JSM.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\44604\\Downloads\\ValidatedRoom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\44604\\Downloads\\ValidatedRoom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -65,37 +84,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Egg.cs",
-              "DocumentMoniker": "C:\\Users\\44604\\Documents\\GitHub\\ProceduralGen_StoneSoup\\Assets\\Resources\\Jasmine\\Egg.cs",
-              "RelativeDocumentMoniker": "Assets\\Resources\\Jasmine\\Egg.cs",
-              "ToolTip": "C:\\Users\\44604\\Documents\\GitHub\\ProceduralGen_StoneSoup\\Assets\\Resources\\Jasmine\\Egg.cs",
-              "RelativeToolTip": "Assets\\Resources\\Jasmine\\Egg.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-02T21:27:06.857Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Dragon.cs",
-              "DocumentMoniker": "C:\\Users\\44604\\Documents\\GitHub\\ProceduralGen_StoneSoup\\Assets\\Resources\\Jasmine\\Dragon.cs",
-              "RelativeDocumentMoniker": "Assets\\Resources\\Jasmine\\Dragon.cs",
-              "ToolTip": "C:\\Users\\44604\\Documents\\GitHub\\ProceduralGen_StoneSoup\\Assets\\Resources\\Jasmine\\Dragon.cs",
-              "RelativeToolTip": "Assets\\Resources\\Jasmine\\Dragon.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-02T21:26:37.409Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "Tile.cs",
+              "DocumentMoniker": "C:\\Users\\44604\\Documents\\GitHub\\ProceduralGen_StoneSoup\\Assets\\Scripts\\GameObjects\\Tile.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameObjects\\Tile.cs",
+              "ToolTip": "C:\\Users\\44604\\Documents\\GitHub\\ProceduralGen_StoneSoup\\Assets\\Scripts\\GameObjects\\Tile.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameObjects\\Tile.cs",
+              "ViewState": "AgIAAOEBAAAAAAAAAAAQwAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T03:09:10.356Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "ValidatedRoom.cs",
               "DocumentMoniker": "C:\\Users\\44604\\Downloads\\ValidatedRoom.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\ValidatedRoom.cs",
@@ -108,7 +114,70 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 17,
+              "Title": "ValidatedRoom.cs",
+              "DocumentMoniker": "C:\\Users\\44604\\Downloads\\ValidatedRoom.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\ValidatedRoom.cs",
+              "ToolTip": "C:\\Users\\44604\\Downloads\\ValidatedRoom.cs",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\ValidatedRoom.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T21:27:50.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "basicroom_JSM.txt",
+              "DocumentMoniker": "C:\\Users\\44604\\Documents\\GitHub\\ProceduralGen_StoneSoup\\Assets\\Resources\\Jasmine\\basicroom_JSM.txt",
+              "RelativeDocumentMoniker": "Assets\\Resources\\Jasmine\\basicroom_JSM.txt",
+              "ToolTip": "C:\\Users\\44604\\Documents\\GitHub\\ProceduralGen_StoneSoup\\Assets\\Resources\\Jasmine\\basicroom_JSM.txt",
+              "RelativeToolTip": "Assets\\Resources\\Jasmine\\basicroom_JSM.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-02-24T02:38:45.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "jz5144Dragon.cs",
+              "DocumentMoniker": "C:\\Users\\44604\\Documents\\GitHub\\ProceduralGen_StoneSoup\\Assets\\Resources\\Jasmine\\jz5144Dragon.cs",
+              "RelativeDocumentMoniker": "Assets\\Resources\\Jasmine\\jz5144Dragon.cs",
+              "ToolTip": "C:\\Users\\44604\\Documents\\GitHub\\ProceduralGen_StoneSoup\\Assets\\Resources\\Jasmine\\jz5144Dragon.cs",
+              "RelativeToolTip": "Assets\\Resources\\Jasmine\\jz5144Dragon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T03:52:48.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "apt283BasicEnemy.cs",
+              "DocumentMoniker": "C:\\Users\\44604\\Documents\\GitHub\\ProceduralGen_StoneSoup\\Assets\\Resources\\AP\\Scripts\\apt283BasicEnemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Resources\\AP\\Scripts\\apt283BasicEnemy.cs",
+              "ToolTip": "C:\\Users\\44604\\Documents\\GitHub\\ProceduralGen_StoneSoup\\Assets\\Resources\\AP\\Scripts\\apt283BasicEnemy.cs",
+              "RelativeToolTip": "Assets\\Resources\\AP\\Scripts\\apt283BasicEnemy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T03:08:15.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Egg.cs",
+              "DocumentMoniker": "C:\\Users\\44604\\Documents\\GitHub\\ProceduralGen_StoneSoup\\Assets\\Resources\\Jasmine\\Egg.cs",
+              "RelativeDocumentMoniker": "Assets\\Resources\\Jasmine\\Egg.cs",
+              "ToolTip": "C:\\Users\\44604\\Documents\\GitHub\\ProceduralGen_StoneSoup\\Assets\\Resources\\Jasmine\\Egg.cs",
+              "RelativeToolTip": "Assets\\Resources\\Jasmine\\Egg.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T21:27:06.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "selah_UR.txt",
               "DocumentMoniker": "C:\\Users\\44604\\Documents\\GitHub\\ProceduralGen_StoneSoup\\Assets\\Resources\\Jasmine\\RoomTexts\\selah_UR.txt",
               "RelativeDocumentMoniker": "Assets\\Resources\\Jasmine\\RoomTexts\\selah_UR.txt",
@@ -120,7 +189,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "universal.txt",
               "DocumentMoniker": "C:\\Users\\44604\\Documents\\GitHub\\ProceduralGen_StoneSoup\\Assets\\Resources\\Jasmine\\RoomTexts\\universal.txt",
               "RelativeDocumentMoniker": "Assets\\Resources\\Jasmine\\RoomTexts\\universal.txt",
@@ -132,7 +201,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 1,
+              "Title": "ValidateRoom.cs",
+              "DocumentMoniker": "C:\\Users\\44604\\Documents\\GitHub\\ProceduralGen_StoneSoup\\Assets\\Resources\\Jasmine\\ValidateRoom.cs",
+              "RelativeDocumentMoniker": "Assets\\Resources\\Jasmine\\ValidateRoom.cs",
+              "ToolTip": "C:\\Users\\44604\\Documents\\GitHub\\ProceduralGen_StoneSoup\\Assets\\Resources\\Jasmine\\ValidateRoom.cs",
+              "RelativeToolTip": "Assets\\Resources\\Jasmine\\ValidateRoom.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAgwE8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T20:12:28.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BasicAICreature.cs",
+              "DocumentMoniker": "C:\\Users\\44604\\Documents\\GitHub\\ProceduralGen_StoneSoup\\Assets\\Scripts\\GameObjects\\BasicAICreature.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameObjects\\BasicAICreature.cs",
+              "ToolTip": "C:\\Users\\44604\\Documents\\GitHub\\ProceduralGen_StoneSoup\\Assets\\Scripts\\GameObjects\\BasicAICreature.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameObjects\\BasicAICreature.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T03:08:46.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "RoomPicker.cs",
               "DocumentMoniker": "C:\\Users\\44604\\Documents\\GitHub\\ProceduralGen_StoneSoup\\Assets\\Resources\\Jasmine\\RoomPicker.cs",
               "RelativeDocumentMoniker": "Assets\\Resources\\Jasmine\\RoomPicker.cs",
@@ -144,19 +237,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ValidateRoom.cs",
-              "DocumentMoniker": "C:\\Users\\44604\\Documents\\GitHub\\ProceduralGen_StoneSoup\\Assets\\Resources\\Jasmine\\ValidateRoom.cs",
-              "RelativeDocumentMoniker": "Assets\\Resources\\Jasmine\\ValidateRoom.cs",
-              "ToolTip": "C:\\Users\\44604\\Documents\\GitHub\\ProceduralGen_StoneSoup\\Assets\\Resources\\Jasmine\\ValidateRoom.cs",
-              "RelativeToolTip": "Assets\\Resources\\Jasmine\\ValidateRoom.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-24T20:12:28.045Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 6,
               "Title": "moveWall_tile.cs",
               "DocumentMoniker": "C:\\Users\\44604\\Documents\\GitHub\\ProceduralGen_StoneSoup\\Assets\\Resources\\Jasmine\\moveWall_tile.cs",
               "RelativeDocumentMoniker": "Assets\\Resources\\Jasmine\\moveWall_tile.cs",
@@ -168,7 +249,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 7,
+              "Title": "Egg_closed.cs",
+              "DocumentMoniker": "C:\\Users\\44604\\Documents\\GitHub\\ProceduralGen_StoneSoup\\Assets\\Resources\\Jasmine\\Egg_closed.cs",
+              "RelativeDocumentMoniker": "Assets\\Resources\\Jasmine\\Egg_closed.cs",
+              "ToolTip": "C:\\Users\\44604\\Documents\\GitHub\\ProceduralGen_StoneSoup\\Assets\\Resources\\Jasmine\\Egg_closed.cs",
+              "RelativeToolTip": "Assets\\Resources\\Jasmine\\Egg_closed.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T21:27:25.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "jz5144TrapMoveableRoom.cs",
               "DocumentMoniker": "C:\\Users\\44604\\Documents\\GitHub\\ProceduralGen_StoneSoup\\Assets\\Resources\\Jasmine\\jz5144TrapMoveableRoom.cs",
               "RelativeDocumentMoniker": "Assets\\Resources\\Jasmine\\jz5144TrapMoveableRoom.cs",
@@ -180,7 +273,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "apt283ArrowTrapDFSRoom.cs",
               "DocumentMoniker": "C:\\Users\\44604\\Documents\\GitHub\\ProceduralGen_StoneSoup\\Assets\\Resources\\AP\\Scripts\\apt283ArrowTrapDFSRoom.cs",
               "RelativeDocumentMoniker": "Assets\\Resources\\AP\\Scripts\\apt283ArrowTrapDFSRoom.cs",
@@ -192,7 +285,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "apt283RandomDFSRoom.cs",
               "DocumentMoniker": "C:\\Users\\44604\\Documents\\GitHub\\ProceduralGen_StoneSoup\\Assets\\Resources\\AP\\Scripts\\apt283RandomDFSRoom.cs",
               "RelativeDocumentMoniker": "Assets\\Resources\\AP\\Scripts\\apt283RandomDFSRoom.cs",
@@ -204,19 +297,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "basicroom_JSM.txt",
-              "DocumentMoniker": "C:\\Users\\44604\\Documents\\GitHub\\ProceduralGen_StoneSoup\\Assets\\Resources\\Jasmine\\basicroom_JSM.txt",
-              "RelativeDocumentMoniker": "Assets\\Resources\\Jasmine\\basicroom_JSM.txt",
-              "ToolTip": "C:\\Users\\44604\\Documents\\GitHub\\ProceduralGen_StoneSoup\\Assets\\Resources\\Jasmine\\basicroom_JSM.txt",
-              "RelativeToolTip": "Assets\\Resources\\Jasmine\\basicroom_JSM.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2026-02-24T02:38:45.776Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "LevelGenerator.cs",
               "DocumentMoniker": "C:\\Users\\44604\\Documents\\GitHub\\ProceduralGen_StoneSoup\\Assets\\Scripts\\Util\\LevelGenerator.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Util\\LevelGenerator.cs",
@@ -228,7 +309,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "Room.cs",
               "DocumentMoniker": "C:\\Users\\44604\\Documents\\GitHub\\ProceduralGen_StoneSoup\\Assets\\Scripts\\Util\\Room.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Util\\Room.cs",

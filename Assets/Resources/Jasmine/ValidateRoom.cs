@@ -1,5 +1,4 @@
 using NUnit.Framework;
-using System.
 
 using System.Collections.Generic;
 using UnityEngine;
@@ -58,7 +57,7 @@ public class ValidateRoom : Room
         List<Vector2Int> openSet = new List<Vector2Int>();
         List<Vector2Int> closedSet = new List<Vector2Int>();
 
-        openSet.Add(start);
+        //openSet.Add(start);
 
         while (openSet.Count > 0)
         {
@@ -75,7 +74,7 @@ public class ValidateRoom : Room
             Vector2Int leftNeighbor = new Vector2Int(currentNode.x - 1, currentNode.y);
             Vector2Int rightNeighbor = new Vector2Int(currentNode.x + 1, currentNode.y);
 
-            if (closedSet.Contains(upNeighbor) == false && _indexGrid[upNeighbor.x, upNeighbor.y] == 0 && IsBounds(upNeighbor)
+            if (closedSet.Contains(upNeighbor) == false && _indexGrid[upNeighbor.x, upNeighbor.y] == 0)
             {
                 openSet.Add(upNeighbor);
             }
